@@ -16,7 +16,7 @@ export const About: React.FC = () => {
         >
           <div className="absolute -inset-4 bg-gradient-to-r from-primary to-secondary rounded-3xl opacity-30 blur-xl"></div>
           <img 
-            src={"/ceo.jpg"} 
+            src={"/ceo.jpeg"} 
             alt={CEO_PROFILE.name} 
             className="relative rounded-3xl w-full object-cover shadow-2xl border border-white/10"
           />
