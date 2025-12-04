@@ -187,7 +187,7 @@ export const PORTFOLIO: Project[] = [
 export const CEO_PROFILE: TeamMember = {
   name: "Dipesh Sakpal",
   role: "CEO & Lead Architect",
-  image: "/ceo.JPG",
+  image: "/ceo.jpg",
   bio: "Visionary tech leader with 8+ years of expertise in Game Development and Full-Stack Engineering. Dipesh specializes in bridging the gap between creative gaming experiences and robust enterprise software.",
   socials: {
     linkedin: "#",
