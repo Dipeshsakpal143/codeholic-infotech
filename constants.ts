@@ -190,9 +190,9 @@ export const CEO_PROFILE: TeamMember = {
   image: "/ceo.jpeg",
   bio: "Visionary tech leader with 8+ years of expertise in Game Development and Full-Stack Engineering. Dipesh specializes in bridging the gap between creative gaming experiences and robust enterprise software.",
   socials: {
-    linkedin: "#",
+    linkedin: "https://www.linkedin.com/in/dipesh-sakpal-53333a237/",
     twitter: "#",
-    github: "#"
+    github: "https://github.com/Dipeshsakpal143"
   }
 };
 
