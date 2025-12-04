@@ -122,7 +122,7 @@ export const Home: React.FC = () => {
              <img 
                src={CEO_PROFILE.image} 
                alt={CEO_PROFILE.name} 
-               className="relative rounded-2xl shadow-2xl w-full object-cover aspect-[4/3] grayscale hover:grayscale-0 transition-all duration-500"
+               className="relative rounded-2xl shadow-2xl w-full object-contain aspect-[4/3] grayscale hover:grayscale-0 transition-all duration-500"
              />
           </div>
           <div className="w-full md:w-1/2">
